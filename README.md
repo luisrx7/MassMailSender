@@ -16,3 +16,5 @@ MassMailSender is a simple tool to send emails to a list of recipients. It is wr
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
+
+![Murphysec Scan](https://v3-hkylzjk.murphysec.com/platform3/v3/badge/1609675718884937728.svg)
